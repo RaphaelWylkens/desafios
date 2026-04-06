@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-icon {
+  width: 50px;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+}
